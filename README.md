@@ -24,7 +24,9 @@ Through this repository, I am practicing:
 ---
 
 ## Repository Structure
+```
 evaluations/
   exercise-01-health.md
   exercise-02-ambiguous.md
   exercise-03-factual.md
+```
